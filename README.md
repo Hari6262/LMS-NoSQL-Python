@@ -26,6 +26,4 @@ The system utilizes five collections within the `library_dbteat` database:
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/Hari6262/LMS-NoSQL-Python](https://github.com/your-username/library-mgmt-mongodb.git)
-   cd library-mgmt-mongodb
-
+   git clone [https://github.com/Hari6262/LMS-NoSQL-Python]
